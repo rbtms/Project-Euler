@@ -1,6 +1,14 @@
-/*******************
+/***********************************************************************
 * Project euler 17
-*******************/
+*
+* Title   : Number letter counts
+*
+* Problem : If all the numbers from 1 to 1000 (one thousand) inclusive
+*           were written out in words, how many letters would be used? 
+*
+* URL     : https://projecteuler.net/problem=17
+*
+***********************************************************************/
 
 var word_list =
     {

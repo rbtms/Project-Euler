@@ -1,6 +1,12 @@
-/******************
+/***************************************************************************
 * Project euler 3
-******************/
+*
+* Title   : Largest prime factor
+* Problem : What is the largest prime factor of the number 600851475143 ?
+* URL     : https://projecteuler.net/problem=3
+*
+***************************************************************************/
+
 var n    = 600851475143;
 var root = Math.ceil(Math.sqrt(n));
 
@@ -34,7 +40,7 @@ function is_prime(n)
 
 for(var m = root; m > 0; m--)
     {
-        if(n % m == 0 && is_prime(m))
+        if( n % m == 0 && is_prime(m))
             {
                 console.log(m);
                 process.exit();

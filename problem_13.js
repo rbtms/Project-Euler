@@ -1,6 +1,14 @@
-/*******************
+/********************************************************
 * Project euler 13
-*******************/
+*
+* Title   : Large sum
+*
+* Problem : Work out the first ten digits of the sum of
+*           the following one-hundred 50-digit numbers.
+*
+* URL     : https://projecteuler.net/problem=13
+*
+********************************************************/
 
 var num =
     [

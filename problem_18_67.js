@@ -1,6 +1,16 @@
-/************************
+/***********************************************************************
 * Euler project 18 / 67
-************************/
+*
+* Title   : Maximum path sum I /
+*           Maximum path sum II
+*
+* Problem : Find the maximum total from top to bottom of the triangle.
+*
+* URL     : https://projecteuler.net/problem=18
+*           https://projecteuler.net/problem=67
+*
+***********************************************************************/
+
 var fs = require('fs');
 
 

@@ -1,6 +1,14 @@
-/*******************
-* Project euler 11,
-*******************/
+/****************************************************************************************
+* Project euler 11
+*
+* Title   : Largest product in a grid
+*
+* Problem : What is the greatest product of four adjacent numbers in the same direction
+*           (up, down, left, right, or diagonally) in the 20×20 grid?
+*
+* URL     : https://projecteuler.net/problem=11
+*
+****************************************************************************************/
 
 var grid =
     [
@@ -29,7 +37,6 @@ var grid =
 
 var product;
 var result = 0;
-
 
 /************************************
 * From up to down and left to right

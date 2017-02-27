@@ -1,6 +1,11 @@
-/*******************
+/**********************************************************************
 * Project euler 21
-*******************/
+*
+* Title   : Amicable numbers
+* Problem : Evaluate the sum of all the amicable numbers under 10000.
+* URL     : https://projecteuler.net/problem=21
+*
+**********************************************************************/
 
 function proper_divisors(n)
     {

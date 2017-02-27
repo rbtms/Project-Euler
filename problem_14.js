@@ -1,6 +1,11 @@
-/*******************
+/**********************************************************************************
 * Euler project 14
-*******************/
+*
+* Title   : Longest Collatz sequence
+* Problem : Which starting number, under one million, produces the longest chain?
+* URL     : https://projecteuler.net/problem=14
+*
+**********************************************************************************/
 
 function collatz(n)
     {

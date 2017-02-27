@@ -1,6 +1,11 @@
-/*******************
+/*****************************************************************
 * Project euler 16
-*******************/
+*
+* Title   : Power digit sum
+* Problem : What is the sum of the digits of the number 2**1000?
+* URL     : https://projecteuler.net/problem=16
+*
+*****************************************************************/
 
 /***************************
 * Get the length of an int

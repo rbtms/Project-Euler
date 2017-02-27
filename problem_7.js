@@ -1,6 +1,11 @@
-/******************
+/************************************************
 * Project euler 7
-******************/
+*
+* Title   : 10001st prime
+* Problem : What is the 10.001st prime number?
+* URL     : https://projecteuler.net/problem=7
+*
+************************************************/
 
 function is_prime(p)
     {

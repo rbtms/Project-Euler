@@ -1,6 +1,14 @@
-/*******************
+/***********************************************************
 * Project euler 12
-*******************/
+*
+* Title   : Highly divisible triangular number
+*
+* Problem : What is the value of the first triangle number
+*           to have over five hundred divisors?
+*
+* URL     : https://projecteuler.net/problem=12
+*
+***********************************************************/
 
 function sum(k)
     {

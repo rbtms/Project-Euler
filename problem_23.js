@@ -1,9 +1,18 @@
-/*******************
+/*******************************************************************
 * Project euler 23
-*******************/
+*
+* Title   : Non-abundant sums
+*
+* Problem : Find the sum of all the positive integers which cannot
+*           be written as the sum of two abundant numbers.
+*
+* URL     : https://projecteuler.net/problem=23
+*
+*******************************************************************/
+
 var math = require('./lib/math.js');
 
-const LIMIT  = 28123;
+const LIMIT = 28123;
 
 
 function arr_contains(arr, n)

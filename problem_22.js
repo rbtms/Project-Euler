@@ -1,12 +1,18 @@
-/*******************
+/******************************************************************
 * Project euler 22
-*******************/
+*
+* Title   : Names scores
+* Problem : What is the total of all the name scores in the file?
+* URL     : https://projecteuler.net/problem=22
+*
+******************************************************************/
+
 var fs = require('fs');
 
 
-var alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-
+var alphabet     = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var letter_value = {};
+
 for(var n = 0; n < alphabet.length; n++) { letter_value[ alphabet[n] ] = n; }
 
 

@@ -1,6 +1,14 @@
-/******************
+/*************************************************************************************
 * Project euler 9
-******************/
+*
+* Title   : Special Pythagorean triplet
+*
+* Problem : There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+*           Find the product abc.
+*
+* URL     : https://projecteuler.net/problem=9
+*
+*************************************************************************************/
 
 var a, b, c;
 var sum;

@@ -1,6 +1,11 @@
-/*******************
+/**********************************************************
 * Project euler 20
-*******************/
+*
+* Title   : Factorial digit sum
+* Problem : Find the sum of the digits in the number 100!
+* URL     : https://projecteuler.net/problem=20
+*
+**********************************************************/
 
 /***************************
 * Get the length of an int

@@ -1,6 +1,11 @@
-/*******************
+/**************************************************************
 * Project euler 10
-*******************/
+*
+* Title   : Summation of primes
+* Problem : Find the sum of all the primes below two million.
+* URL     : https://projecteuler.net/problem=10
+*
+**************************************************************/
 function is_prime(p)
     {
         if(p % 2 == 0 || p % 3 == 0 || p % 5 == 0 || p % 7 == 0) { return false; }

@@ -1,6 +1,14 @@
-/******************
+/******************************************************************************
 * Project euler 6
-******************/
+*
+* Title   : Sum square difference
+*
+* Problem : Find the difference between the sum of the squares of the first
+*           one hundred natural numbers and the square of the sum.
+*
+* URL     : https://projecteuler.net/problem=6
+*
+******************************************************************************/
 
 function sum_square(n)
     {

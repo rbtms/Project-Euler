@@ -1,8 +1,11 @@
-/******************
+/***************************************************************************************
 * Project euler 4
-******************/
-var result = 0;
-
+*
+* Title   : Largest palindrome product
+* Problem : Find the largest palindrome made from the product of two 3-digit numbers.
+* URL     : https://projecteuler.net/problem=4
+*
+***************************************************************************************/
 
 function reverse_string(str)
     {
@@ -14,6 +17,8 @@ function reverse_string(str)
         return reverse;
     }
 
+
+var result = 0;
 
 for(var n = 100; n < 1000; n++)
     {

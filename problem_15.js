@@ -1,6 +1,15 @@
-/*******************
+/******************************************************************
 * Project euler 15
-*******************/
+*
+* Title   : Lattice paths
+*
+* Problem : How many routes, starting in the top left corner, and
+*           only being able to move to the right and down, are in
+*           a 20x20 grid?
+*
+* URL     : https://projecteuler.net/problem=15
+*
+******************************************************************/
 
 var size   = 3;
 var result = 0;

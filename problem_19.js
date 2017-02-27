@@ -1,6 +1,14 @@
-/*******************
+/*******************************************************************
 * Project euler 19
-*******************/
+*
+* Title   : Counting Sundays
+*
+* Problem : How many Sundays fell on the first of the month during
+*           the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+*
+* URL     : https://projecteuler.net/problem=19
+*
+*******************************************************************/
 
 var month_days = [ 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 ];
 var week_day   = 0;

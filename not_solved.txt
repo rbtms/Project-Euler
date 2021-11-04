@@ -1,5 +1,4 @@
 54 Poker
-57 I think that it's correct, but for some reason it's not
 60 ?
 64
 65
